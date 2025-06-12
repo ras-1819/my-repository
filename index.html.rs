@@ -15,9 +15,9 @@ initial-scale=1.0"/>
         <nav>
             <ul>
                 <li><a href="diligent.html">HOME</a></li>
-              <li><a href="index.html.rs">MENU</a></li> 
+              <li><a href="menu.html">MENU</a></li> 
             <li><a href="gallery.html">GALLERY</a></li>
-            <li><a href="index.html.rs">ABOUT</a></li>
+            <li><a href="about.html">ABOUT</a></li>
             <li><a href="html.index.bk">CONTACT</a></li>
             <li><a href="reviews.html">REVIEWS</a></li>
             </ul>
